@@ -24,5 +24,6 @@ s.mens_apparel = true
 s.womens_apparel = false
 s.save
 
+
 puts Store.new
 puts Store.count
